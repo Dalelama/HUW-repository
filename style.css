@@ -1,0 +1,63 @@
+/*this title is for information about the main title*/
+
+h1 {
+    font-family: 'Changa', sans-serif;
+    font-size: 38px;
+    text-align: center text-transform: uppercase;
+    
+}
+.MH{
+    font-size: 32px;
+    text-align: center;
+    color: #2490fc;
+    padding: 20px;
+    background-color: #f7d4a6;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+
+/*this title is for information about the font choice*/
+h3 {
+    font-family: 'Allan', cursive;
+    font-size: 24px;
+    line-height: 10px;
+}
+
+/*paragraph text*/
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/*ignore things below for now
+.row {
+    display: flex;
+}
+
+.column {
+    /*   flex: 33%;*/
+    /*padding-left: 30%;
+    padding-right: 30%;
+}*/
+
+div {
+    column-count: 1;
+    column-fill: inherit;
+    column-width: 30%;
+}
+.frame{
+    width: 700px;
+    height: 750px;
+    padding: 90px;
+    margin: auto;
+    background-color: beige;
+}
